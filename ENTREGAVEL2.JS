@@ -7,19 +7,19 @@
     <title>Algoritmos</title>
 </head>
 <body>
-    <h1>Algoritmos JS</h1>
-    <button onclick="getElementById('p1').innerHTML=Primo()">Número primo</button>
-    <p id="p1"></p> 
-    <button onclick="getElementById('p2').innerHTML=Somatorio()">Somatório</button>
-    <p id ='p2'></p>
-    <button onclick="getElementById('p3').innerHTML=Fibonacci()">Fibonacci</button>
-    <p id="p3"></p>
-    <button onclick="getElementById('p4').innerHTML=MDC()">MDC</button>
-    <p id="p4"></p>
-    <button onclick="getElementById('p5').innerHTML=Ordenacao()">Ordenação</button>
-    <p id="p5"></p>
-    <button onclick="getElementById('p6').innerHTML=Contagem()">Contagem</button>
-    <p id="p6"></p>
+    <h1>Entregavel 2</h1>
+    <button onclick="getElementById('a1').innerHTML=Primo()">Número primo</button>
+    <p id="a1"></p> 
+    <button onclick="getElementById('a2').innerHTML=Somatorio()">Somatório</button>
+    <p id ='a2'></p>
+    <button onclick="getElementById('a3').innerHTML=Fibonacci()">Fibonacci</button>
+    <p id="a3"></p>
+    <button onclick="getElementById('a4').innerHTML=MDC()">MDC</button>
+    <p id="a4"></p>
+    <button onclick="getElementById('a5').innerHTML=Ordenacao()">Ordenação</button>
+    <p id="a5"></p>
+    <button onclick="getElementById('a6').innerHTML=Contagem()">Contagem</button>
+    <p id="a6"></p>
 </body>
 <script>
     function Primo(){
